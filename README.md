@@ -15,6 +15,8 @@ The module works for both vertical and horizontal Waybar layouts.
 - Python 3
 - A valid Codex auth file (default: `~/.codex/auth.json`)
 
+If you have not authenticated yet, run Codex once (or `codex auth login`) to create the auth file.
+
 ## Install (automatic)
 
 ```sh

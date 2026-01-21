@@ -7,6 +7,12 @@ SCRIPT_SRC="$ROOT_DIR/codex-usage.sh"
 CSS_SRC="$ROOT_DIR/codex-waybar.css"
 SCRIPT_DST="$WAYBAR_DIR/codex-usage.sh"
 CSS_DST="$WAYBAR_DIR/codex-usage.css"
+AUTH_FILE="${CODEX_AUTH_FILE:-$HOME/.codex/auth.json}"
+
+if [[ ! -f "$AUTH_FILE" ]]; then
+  printf '%s\n' "Missing Codex auth file: $AUTH_FILE" "Run 'codex auth login' (or open Codex once) and re-run this installer."
+  exit 1
+fi
 
 mkdir -p "$WAYBAR_DIR"
 
