@@ -1,0 +1,164 @@
+#custom-codex-week-time,
+#custom-codex-week-usage,
+#custom-codex-5h-time,
+#custom-codex-5h-usage {
+  min-width: 4px;
+  min-height: 72px;
+  margin: 6px 1px;
+  padding: 0;
+  background: transparent;
+  border: none;
+}
+
+#custom-codex-week-time.t0 { background: linear-gradient(to top, @color6 0%, @color6 0%, transparent 0%, transparent 100%); }
+#custom-codex-week-time.t10 { background: linear-gradient(to top, @color6 0%, @color6 10%, transparent 10%, transparent 100%); }
+#custom-codex-week-time.t20 { background: linear-gradient(to top, @color6 0%, @color6 20%, transparent 20%, transparent 100%); }
+#custom-codex-week-time.t30 { background: linear-gradient(to top, @color6 0%, @color6 30%, transparent 30%, transparent 100%); }
+#custom-codex-week-time.t40 { background: linear-gradient(to top, @color6 0%, @color6 40%, transparent 40%, transparent 100%); }
+#custom-codex-week-time.t50 { background: linear-gradient(to top, @color6 0%, @color6 50%, transparent 50%, transparent 100%); }
+#custom-codex-week-time.t60 { background: linear-gradient(to top, @color6 0%, @color6 60%, transparent 60%, transparent 100%); }
+#custom-codex-week-time.t70 { background: linear-gradient(to top, @color6 0%, @color6 70%, transparent 70%, transparent 100%); }
+#custom-codex-week-time.t80 { background: linear-gradient(to top, @color6 0%, @color6 80%, transparent 80%, transparent 100%); }
+#custom-codex-week-time.t90 { background: linear-gradient(to top, @color6 0%, @color6 90%, transparent 90%, transparent 100%); }
+#custom-codex-week-time.t100 { background: linear-gradient(to top, @color6 0%, @color6 100%, transparent 100%, transparent 100%); }
+
+#custom-codex-week-usage.p0 { background: linear-gradient(to top, @color3 0%, @color3 0%, transparent 0%, transparent 100%); }
+#custom-codex-week-usage.p10 { background: linear-gradient(to top, @color3 0%, @color3 10%, transparent 10%, transparent 100%); }
+#custom-codex-week-usage.p20 { background: linear-gradient(to top, @color3 0%, @color3 20%, transparent 20%, transparent 100%); }
+#custom-codex-week-usage.p30 { background: linear-gradient(to top, @color3 0%, @color3 30%, transparent 30%, transparent 100%); }
+#custom-codex-week-usage.p40 { background: linear-gradient(to top, @color3 0%, @color3 40%, transparent 40%, transparent 100%); }
+#custom-codex-week-usage.p50 { background: linear-gradient(to top, @color3 0%, @color3 50%, transparent 50%, transparent 100%); }
+#custom-codex-week-usage.p60 { background: linear-gradient(to top, @color3 0%, @color3 60%, transparent 60%, transparent 100%); }
+#custom-codex-week-usage.p70 { background: linear-gradient(to top, @color3 0%, @color3 70%, transparent 70%, transparent 100%); }
+#custom-codex-week-usage.p80 { background: linear-gradient(to top, @color3 0%, @color3 80%, transparent 80%, transparent 100%); }
+#custom-codex-week-usage.p90 { background: linear-gradient(to top, @color3 0%, @color3 90%, transparent 90%, transparent 100%); }
+#custom-codex-week-usage.p100 { background: linear-gradient(to top, @color3 0%, @color3 100%, transparent 100%, transparent 100%); }
+
+#custom-codex-week-usage.limit.p0 { background: linear-gradient(to top, @color1 0%, @color1 0%, transparent 0%, transparent 100%); }
+#custom-codex-week-usage.limit.p10 { background: linear-gradient(to top, @color1 0%, @color1 10%, transparent 10%, transparent 100%); }
+#custom-codex-week-usage.limit.p20 { background: linear-gradient(to top, @color1 0%, @color1 20%, transparent 20%, transparent 100%); }
+#custom-codex-week-usage.limit.p30 { background: linear-gradient(to top, @color1 0%, @color1 30%, transparent 30%, transparent 100%); }
+#custom-codex-week-usage.limit.p40 { background: linear-gradient(to top, @color1 0%, @color1 40%, transparent 40%, transparent 100%); }
+#custom-codex-week-usage.limit.p50 { background: linear-gradient(to top, @color1 0%, @color1 50%, transparent 50%, transparent 100%); }
+#custom-codex-week-usage.limit.p60 { background: linear-gradient(to top, @color1 0%, @color1 60%, transparent 60%, transparent 100%); }
+#custom-codex-week-usage.limit.p70 { background: linear-gradient(to top, @color1 0%, @color1 70%, transparent 70%, transparent 100%); }
+#custom-codex-week-usage.limit.p80 { background: linear-gradient(to top, @color1 0%, @color1 80%, transparent 80%, transparent 100%); }
+#custom-codex-week-usage.limit.p90 { background: linear-gradient(to top, @color1 0%, @color1 90%, transparent 90%, transparent 100%); }
+#custom-codex-week-usage.limit.p100 { background: linear-gradient(to top, @color1 0%, @color1 100%, transparent 100%, transparent 100%); }
+
+#custom-codex-5h-time.t0 { background: linear-gradient(to top, @color4 0%, @color4 0%, transparent 0%, transparent 100%); }
+#custom-codex-5h-time.t10 { background: linear-gradient(to top, @color4 0%, @color4 10%, transparent 10%, transparent 100%); }
+#custom-codex-5h-time.t20 { background: linear-gradient(to top, @color4 0%, @color4 20%, transparent 20%, transparent 100%); }
+#custom-codex-5h-time.t30 { background: linear-gradient(to top, @color4 0%, @color4 30%, transparent 30%, transparent 100%); }
+#custom-codex-5h-time.t40 { background: linear-gradient(to top, @color4 0%, @color4 40%, transparent 40%, transparent 100%); }
+#custom-codex-5h-time.t50 { background: linear-gradient(to top, @color4 0%, @color4 50%, transparent 50%, transparent 100%); }
+#custom-codex-5h-time.t60 { background: linear-gradient(to top, @color4 0%, @color4 60%, transparent 60%, transparent 100%); }
+#custom-codex-5h-time.t70 { background: linear-gradient(to top, @color4 0%, @color4 70%, transparent 70%, transparent 100%); }
+#custom-codex-5h-time.t80 { background: linear-gradient(to top, @color4 0%, @color4 80%, transparent 80%, transparent 100%); }
+#custom-codex-5h-time.t90 { background: linear-gradient(to top, @color4 0%, @color4 90%, transparent 90%, transparent 100%); }
+#custom-codex-5h-time.t100 { background: linear-gradient(to top, @color4 0%, @color4 100%, transparent 100%, transparent 100%); }
+
+#custom-codex-5h-usage.p0 { background: linear-gradient(to top, @color2 0%, @color2 0%, transparent 0%, transparent 100%); }
+#custom-codex-5h-usage.p10 { background: linear-gradient(to top, @color2 0%, @color2 10%, transparent 10%, transparent 100%); }
+#custom-codex-5h-usage.p20 { background: linear-gradient(to top, @color2 0%, @color2 20%, transparent 20%, transparent 100%); }
+#custom-codex-5h-usage.p30 { background: linear-gradient(to top, @color2 0%, @color2 30%, transparent 30%, transparent 100%); }
+#custom-codex-5h-usage.p40 { background: linear-gradient(to top, @color2 0%, @color2 40%, transparent 40%, transparent 100%); }
+#custom-codex-5h-usage.p50 { background: linear-gradient(to top, @color2 0%, @color2 50%, transparent 50%, transparent 100%); }
+#custom-codex-5h-usage.p60 { background: linear-gradient(to top, @color2 0%, @color2 60%, transparent 60%, transparent 100%); }
+#custom-codex-5h-usage.p70 { background: linear-gradient(to top, @color2 0%, @color2 70%, transparent 70%, transparent 100%); }
+#custom-codex-5h-usage.p80 { background: linear-gradient(to top, @color2 0%, @color2 80%, transparent 80%, transparent 100%); }
+#custom-codex-5h-usage.p90 { background: linear-gradient(to top, @color2 0%, @color2 90%, transparent 90%, transparent 100%); }
+#custom-codex-5h-usage.p100 { background: linear-gradient(to top, @color2 0%, @color2 100%, transparent 100%, transparent 100%); }
+
+#custom-codex-5h-usage.limit.p0 { background: linear-gradient(to top, @color1 0%, @color1 0%, transparent 0%, transparent 100%); }
+#custom-codex-5h-usage.limit.p10 { background: linear-gradient(to top, @color1 0%, @color1 10%, transparent 10%, transparent 100%); }
+#custom-codex-5h-usage.limit.p20 { background: linear-gradient(to top, @color1 0%, @color1 20%, transparent 20%, transparent 100%); }
+#custom-codex-5h-usage.limit.p30 { background: linear-gradient(to top, @color1 0%, @color1 30%, transparent 30%, transparent 100%); }
+#custom-codex-5h-usage.limit.p40 { background: linear-gradient(to top, @color1 0%, @color1 40%, transparent 40%, transparent 100%); }
+#custom-codex-5h-usage.limit.p50 { background: linear-gradient(to top, @color1 0%, @color1 50%, transparent 50%, transparent 100%); }
+#custom-codex-5h-usage.limit.p60 { background: linear-gradient(to top, @color1 0%, @color1 60%, transparent 60%, transparent 100%); }
+#custom-codex-5h-usage.limit.p70 { background: linear-gradient(to top, @color1 0%, @color1 70%, transparent 70%, transparent 100%); }
+#custom-codex-5h-usage.limit.p80 { background: linear-gradient(to top, @color1 0%, @color1 80%, transparent 80%, transparent 100%); }
+#custom-codex-5h-usage.limit.p90 { background: linear-gradient(to top, @color1 0%, @color1 90%, transparent 90%, transparent 100%); }
+#custom-codex-5h-usage.limit.p100 { background: linear-gradient(to top, @color1 0%, @color1 100%, transparent 100%, transparent 100%); }
+
+window#waybar.horizontal #custom-codex-week-time,
+window#waybar.horizontal #custom-codex-week-usage,
+window#waybar.horizontal #custom-codex-5h-time,
+window#waybar.horizontal #custom-codex-5h-usage {
+  min-width: 72px;
+  min-height: 4px;
+  margin: 1px 6px;
+}
+
+window#waybar.horizontal #custom-codex-week-time.t0 { background: linear-gradient(to right, @color6 0%, @color6 0%, transparent 0%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t10 { background: linear-gradient(to right, @color6 0%, @color6 10%, transparent 10%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t20 { background: linear-gradient(to right, @color6 0%, @color6 20%, transparent 20%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t30 { background: linear-gradient(to right, @color6 0%, @color6 30%, transparent 30%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t40 { background: linear-gradient(to right, @color6 0%, @color6 40%, transparent 40%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t50 { background: linear-gradient(to right, @color6 0%, @color6 50%, transparent 50%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t60 { background: linear-gradient(to right, @color6 0%, @color6 60%, transparent 60%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t70 { background: linear-gradient(to right, @color6 0%, @color6 70%, transparent 70%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t80 { background: linear-gradient(to right, @color6 0%, @color6 80%, transparent 80%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t90 { background: linear-gradient(to right, @color6 0%, @color6 90%, transparent 90%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-time.t100 { background: linear-gradient(to right, @color6 0%, @color6 100%, transparent 100%, transparent 100%); }
+
+window#waybar.horizontal #custom-codex-week-usage.p0 { background: linear-gradient(to right, @color3 0%, @color3 0%, transparent 0%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p10 { background: linear-gradient(to right, @color3 0%, @color3 10%, transparent 10%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p20 { background: linear-gradient(to right, @color3 0%, @color3 20%, transparent 20%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p30 { background: linear-gradient(to right, @color3 0%, @color3 30%, transparent 30%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p40 { background: linear-gradient(to right, @color3 0%, @color3 40%, transparent 40%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p50 { background: linear-gradient(to right, @color3 0%, @color3 50%, transparent 50%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p60 { background: linear-gradient(to right, @color3 0%, @color3 60%, transparent 60%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p70 { background: linear-gradient(to right, @color3 0%, @color3 70%, transparent 70%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p80 { background: linear-gradient(to right, @color3 0%, @color3 80%, transparent 80%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p90 { background: linear-gradient(to right, @color3 0%, @color3 90%, transparent 90%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.p100 { background: linear-gradient(to right, @color3 0%, @color3 100%, transparent 100%, transparent 100%); }
+
+window#waybar.horizontal #custom-codex-week-usage.limit.p0 { background: linear-gradient(to right, @color1 0%, @color1 0%, transparent 0%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p10 { background: linear-gradient(to right, @color1 0%, @color1 10%, transparent 10%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p20 { background: linear-gradient(to right, @color1 0%, @color1 20%, transparent 20%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p30 { background: linear-gradient(to right, @color1 0%, @color1 30%, transparent 30%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p40 { background: linear-gradient(to right, @color1 0%, @color1 40%, transparent 40%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p50 { background: linear-gradient(to right, @color1 0%, @color1 50%, transparent 50%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p60 { background: linear-gradient(to right, @color1 0%, @color1 60%, transparent 60%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p70 { background: linear-gradient(to right, @color1 0%, @color1 70%, transparent 70%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p80 { background: linear-gradient(to right, @color1 0%, @color1 80%, transparent 80%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p90 { background: linear-gradient(to right, @color1 0%, @color1 90%, transparent 90%, transparent 100%); }
+window#waybar.horizontal #custom-codex-week-usage.limit.p100 { background: linear-gradient(to right, @color1 0%, @color1 100%, transparent 100%, transparent 100%); }
+
+window#waybar.horizontal #custom-codex-5h-time.t0 { background: linear-gradient(to right, @color4 0%, @color4 0%, transparent 0%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t10 { background: linear-gradient(to right, @color4 0%, @color4 10%, transparent 10%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t20 { background: linear-gradient(to right, @color4 0%, @color4 20%, transparent 20%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t30 { background: linear-gradient(to right, @color4 0%, @color4 30%, transparent 30%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t40 { background: linear-gradient(to right, @color4 0%, @color4 40%, transparent 40%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t50 { background: linear-gradient(to right, @color4 0%, @color4 50%, transparent 50%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t60 { background: linear-gradient(to right, @color4 0%, @color4 60%, transparent 60%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t70 { background: linear-gradient(to right, @color4 0%, @color4 70%, transparent 70%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t80 { background: linear-gradient(to right, @color4 0%, @color4 80%, transparent 80%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t90 { background: linear-gradient(to right, @color4 0%, @color4 90%, transparent 90%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-time.t100 { background: linear-gradient(to right, @color4 0%, @color4 100%, transparent 100%, transparent 100%); }
+
+window#waybar.horizontal #custom-codex-5h-usage.p0 { background: linear-gradient(to right, @color2 0%, @color2 0%, transparent 0%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p10 { background: linear-gradient(to right, @color2 0%, @color2 10%, transparent 10%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p20 { background: linear-gradient(to right, @color2 0%, @color2 20%, transparent 20%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p30 { background: linear-gradient(to right, @color2 0%, @color2 30%, transparent 30%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p40 { background: linear-gradient(to right, @color2 0%, @color2 40%, transparent 40%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p50 { background: linear-gradient(to right, @color2 0%, @color2 50%, transparent 50%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p60 { background: linear-gradient(to right, @color2 0%, @color2 60%, transparent 60%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p70 { background: linear-gradient(to right, @color2 0%, @color2 70%, transparent 70%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p80 { background: linear-gradient(to right, @color2 0%, @color2 80%, transparent 80%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p90 { background: linear-gradient(to right, @color2 0%, @color2 90%, transparent 90%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.p100 { background: linear-gradient(to right, @color2 0%, @color2 100%, transparent 100%, transparent 100%); }
+
+window#waybar.horizontal #custom-codex-5h-usage.limit.p0 { background: linear-gradient(to right, @color1 0%, @color1 0%, transparent 0%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p10 { background: linear-gradient(to right, @color1 0%, @color1 10%, transparent 10%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p20 { background: linear-gradient(to right, @color1 0%, @color1 20%, transparent 20%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p30 { background: linear-gradient(to right, @color1 0%, @color1 30%, transparent 30%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p40 { background: linear-gradient(to right, @color1 0%, @color1 40%, transparent 40%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p50 { background: linear-gradient(to right, @color1 0%, @color1 50%, transparent 50%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p60 { background: linear-gradient(to right, @color1 0%, @color1 60%, transparent 60%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p70 { background: linear-gradient(to right, @color1 0%, @color1 70%, transparent 70%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p80 { background: linear-gradient(to right, @color1 0%, @color1 80%, transparent 80%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p90 { background: linear-gradient(to right, @color1 0%, @color1 90%, transparent 90%, transparent 100%); }
+window#waybar.horizontal #custom-codex-5h-usage.limit.p100 { background: linear-gradient(to right, @color1 0%, @color1 100%, transparent 100%, transparent 100%); }
